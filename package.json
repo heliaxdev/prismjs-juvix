@@ -1,0 +1,18 @@
+{
+  "name": "prism-juvix",
+  "version": "1.0.0",
+  "description": "prism.js language definition for juvix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "juvix",
+    "prismjs"
+  ],
+  "author": "April Gonçalves",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "prismjs": "^1.22.0"
+  }
+}
